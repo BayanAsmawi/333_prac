@@ -1,3 +1,6 @@
 .extwo, tr, td, th {
     border: 1px solid black;
 }
+
+
+/* .highlight > p means that for class highlight if there is a p right after the class then the styling should apply */
